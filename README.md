@@ -39,7 +39,7 @@ const marcos = {
 
     databases: [
       "MySQL",
-      "MongoDB"
+      "MariaDB"
     ],
 
     tools: [
