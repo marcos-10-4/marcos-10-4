@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 # About Me
 
 ```ts
@@ -24,6 +22,7 @@ const developer = {
   ],
   currentlyLearning: ["AWS", "Kubernetes", "LLMs"],
 };
+---
 <!--
 **marcos-10-4/marcos-10-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
